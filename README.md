@@ -13,4 +13,5 @@ If you have never used GitHub, please read the directions below on how to naviga
 5. To select a different branch, click the drop-down menu described in Step 1 and select a different branch.
 
 I want to thank you for taking the time to check out my code!
+
 ~Ailish
