@@ -10,7 +10,7 @@ If you have never used GitHub, please read the directions below on how to naviga
 2. Next, select which branch you would like to explore.
 3. Click on any file to read the contents.
 4. To navigate back to the branch to view more files, click on the hyperlink "Programming-Portfolio" which is located next to the title of the branch you selected. This will bring you back to the selection of files in the branch you selected in Step 2.
-5. To select a different branch, click the drop-down menu described in Step 1 and select a different branch.
+5. To select a different branch, click the drop-down menu described in Step 1 and select a different branch.You MUST do Step 4 before Step 5 (else you will end up with a 404 error).
 
 I want to thank you for taking the time to check out my code!
 
